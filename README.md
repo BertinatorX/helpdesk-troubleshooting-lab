@@ -119,3 +119,7 @@ I am currently studying for CompTIA Tech+ and plan to complete the exam by Octob
 ## Privacy note
 
 All tickets in this repository are practice scenarios. They do not include real customer information, employer data, school data, or private screenshots.
+
+## Development note
+
+Portions of this repository were worked through in collaboration with Claude (Anthropic's AI assistant, via Claude Code), used as a pair-programming, debugging, and writing aid. All commands were run, all decisions made, and all results verified by me on my own hardware.
