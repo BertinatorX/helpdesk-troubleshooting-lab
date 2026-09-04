@@ -1,12 +1,12 @@
 # Help Desk Troubleshooting Lab
 
-Practice help desk and desktop support scenarios for building entry-level IT troubleshooting skills. This repository documents common support tickets, troubleshooting steps, escalation notes, and user-facing communication examples.
+This repo is where I practice help desk and desktop support scenarios and work on entry-level IT troubleshooting skills. It documents common support tickets, troubleshooting steps, escalation notes, and what I'd say to the user.
 
 ## Purpose
 
-I am an Information Systems student preparing for entry-level IT support roles. This lab helps me practice how to approach technical issues the way a help desk technician would: gather information, reproduce or isolate the problem, try safe fixes, document results, and escalate when needed.
+I'm an Information Systems student getting ready for entry-level IT support roles, and this lab is how I practice working a technical issue the way a help desk technician would: gather information, reproduce or isolate the problem, try safe fixes, document results, and escalate when needed. It's simple on paper, the hard part is doing it in that order every time.
 
-## Skills demonstrated
+## Skills I'm practicing
 
 - Ticket triage and issue documentation
 - Hardware and software troubleshooting
@@ -41,7 +41,7 @@ helpdesk-troubleshooting-lab/
 
 ## Ticket documentation format
 
-Each ticket writeup will use this structure:
+Each ticket writeup follows this structure:
 
 ```text
 Ticket summary:
@@ -58,37 +58,39 @@ What I learned:
 
 ## Planned ticket scenarios
 
+I'm still writing these up.
+
 ### Password reset and MFA
 
-Practice documenting account access problems, identity verification, MFA troubleshooting, and secure handoff steps.
+Probably the most common ticket there is: account access problems, identity verification, MFA troubleshooting, and secure handoff steps.
 
 ### DNS resolution issue
 
-Practice diagnosing a device that has network access but cannot resolve websites or internal hostnames.
+A device that has network access but can't resolve websites or internal hostnames.
 
 ### DHCP connectivity issue
 
-Practice troubleshooting a device that receives an invalid IP address or cannot obtain a lease.
+A device that receives an invalid IP address or can't obtain a lease.
 
 ### Printer not responding
 
-Practice a common desktop support issue involving connectivity, queue status, drivers, and user communication.
+The classic desktop support ticket: connectivity, queue status, drivers, and, maybe more than anything, user communication.
 
 ### VPN connection failure
 
-Practice troubleshooting VPN login, network reachability, client configuration, and escalation details.
+VPN login, network reachability, client configuration, and escalation details. I'd rather hand this off with good notes than pretend I fixed it.
 
 ### Slow computer triage
 
-Practice collecting symptoms, checking resource usage, reviewing startup applications, and documenting safe recommendations.
+Since "it's slow" is as vague as a ticket gets, this one is collecting symptoms, checking resource usage, reviewing startup applications, and documenting safe recommendations.
 
 ### Suspicious email report
 
-Practice security-aware help desk response for a possible phishing email, including safe handling and escalation.
+A security-aware help desk response to a possible phishing email, including safe handling and escalation. Closest to the security work I'd like to end up in.
 
 ## Troubleshooting framework
 
-I use a simple support workflow:
+Nothing clever here, it's the same list every time:
 
 1. Confirm the user impact.
 2. Gather system and error details.
@@ -100,7 +102,7 @@ I use a simple support workflow:
 
 ## Career relevance
 
-This repository supports applications for:
+This repo backs my applications for:
 
 - Help Desk Technician
 - IT Support Specialist
@@ -110,16 +112,16 @@ This repository supports applications for:
 - NOC Technician
 - Cybersecurity Intern
 
-The goal is to show that I can think like a support technician, communicate clearly, and document technical work in a professional way.
+Overall I want it to show I can think like a support technician, explain things clearly, and document technical work properly, not just fix it and move on.
 
 ## Current certification status
 
-I am currently studying for CompTIA Tech+ and plan to complete the exam by October 2026.
+I'm studying for CompTIA Tech+ and plan to complete the exam by October 2026.
 
 ## Privacy note
 
-All tickets in this repository are practice scenarios. They do not include real customer information, employer data, school data, or private screenshots.
+Every ticket in here is made up for practice. None of them include real customer information, employer data, school data, or private screenshots.
 
 ## Development note
 
-Portions of this repository were worked through in collaboration with Claude (Anthropic's AI assistant, via Claude Code), used as a pair-programming, debugging, and writing aid. All commands were run, all decisions made, and all results verified by me on my own hardware.
+Parts of this repo were worked through with Claude (Anthropic's AI assistant, via Claude Code), which I used as a pair-programming, debugging, and writing aid. I ran the commands and made the calls myself, and verified the results on my own hardware.

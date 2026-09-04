@@ -2,11 +2,11 @@
 
 ## Ticket summary
 
-Briefly describe the issue in one sentence.
+One sentence on what's broken, no more.
 
 ## User impact
 
-Who is affected and what work is blocked?
+Who's affected and what work is blocked?
 
 ## Environment
 
@@ -31,20 +31,20 @@ Who is affected and what work is blocked?
 
 ## Resolution
 
-Describe what fixed the issue.
+What actually fixed it, not everything I tried.
 
 ## Verification
 
-Describe how the fix was confirmed.
+How I confirmed the fix stuck.
 
 ## Escalation notes
 
-If not resolved, document what Tier 2 needs to know.
+If I couldn't resolve it, what Tier 2 needs to know.
 
 ## User-facing response
 
-Write a concise response that explains the result in plain language.
+Short reply to the user, plain language, what the result was.
 
 ## What I learned
 
-Add a short reflection on the troubleshooting process.
+A few honest lines on how the troubleshooting went.
