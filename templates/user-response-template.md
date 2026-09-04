@@ -2,14 +2,14 @@
 
 Hi [Name],
 
-I reviewed the issue with [short issue description].
+I looked into the issue with [short issue description].
 
-Here is what I found:
+Here's what I found:
 
 - [Finding 1]
 - [Finding 2]
 
-Here is what I changed or recommended:
+Here's what I changed or recommended:
 
 - [Action 1]
 - [Action 2]

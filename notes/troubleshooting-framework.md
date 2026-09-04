@@ -2,7 +2,7 @@
 
 ## Goal
 
-Use a consistent process for support tickets so issues are handled clearly and safely.
+I use the same process on every support ticket so issues get handled clearly and safely.
 
 ## Process
 
@@ -12,7 +12,7 @@ Ask what the user is trying to do and what happens instead.
 
 ### Identify scope
 
-Determine whether the issue affects one user, one device, one location, or multiple users.
+Figure out whether it's one user, one device, one location, or multiple users.
 
 ### Check simple causes first
 
@@ -28,11 +28,11 @@ Examples:
 
 ### Make one change at a time
 
-Changing multiple things at once makes it harder to know what fixed the issue.
+Changing a bunch of things at once makes it harder to know what fixed the issue.
 
 ### Verify with the user
 
-The ticket is not complete until the user confirms the issue is resolved or the next step is clear.
+The ticket isn't done until the user confirms the issue is resolved or the next step is clear.
 
 ### Document clearly
 

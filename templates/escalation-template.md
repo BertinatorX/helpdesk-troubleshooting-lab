@@ -2,11 +2,11 @@
 
 ## Issue
 
-Short summary of the issue.
+What's broken, in a line or two.
 
 ## Business or user impact
 
-Describe urgency and affected users.
+How urgent it is and who it affects.
 
 ## Environment
 
@@ -31,8 +31,8 @@ Describe urgency and affected users.
 
 ## Current status
 
-What still does not work?
+What still doesn't work.
 
 ## Requested help
 
-What should Tier 2, networking, security, or systems team review?
+What I need Tier 2, networking, security, or systems to look at.

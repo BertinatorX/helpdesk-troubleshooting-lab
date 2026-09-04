@@ -2,11 +2,11 @@
 
 ## Ticket summary
 
-User cannot sign in after a password change and is also receiving MFA prompts.
+User changed their password, can't sign in, and is also getting MFA prompts.
 
 ## User impact
 
-The user cannot access email or work applications.
+User can't get into email or any work apps.
 
 ## Environment
 
@@ -32,15 +32,15 @@ The user cannot access email or work applications.
 
 ## Resolution
 
-The user successfully signed in after confirming the correct password and MFA prompt.
+Nothing exotic here, the user got in after confirming the correct password and MFA prompt.
 
 ## Verification
 
-The user opened email and confirmed access to required applications.
+The user opened email and got into the applications they need, so I called it fixed.
 
 ## Escalation notes
 
-Escalate if MFA device is lost, suspicious login activity appears, or account recovery requires administrator approval.
+Escalate if the MFA device is lost, suspicious login activity shows up, or account recovery needs administrator approval.
 
 ## User-facing response
 
@@ -48,4 +48,4 @@ Your account access has been restored. Please continue using your updated passwo
 
 ## What I learned
 
-Account support requires both technical troubleshooting and security awareness. Identity verification and MFA handling should follow policy.
+I think account tickets need security awareness as much as troubleshooting, and you can't skip either side. Identity verification and MFA handling aren't places to improvise, both should follow policy. Overall an easy ticket technically, but cutting corners on the security side would be the real mistake.

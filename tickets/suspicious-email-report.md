@@ -2,11 +2,11 @@
 
 ## Ticket summary
 
-User reported a suspicious email asking them to open an attachment.
+User reported a suspicious email that asked them to open an attachment.
 
 ## User impact
 
-Potential phishing or malware risk.
+Possible phishing or malware risk.
 
 ## Environment
 
@@ -23,7 +23,7 @@ Potential phishing or malware risk.
 
 ## Troubleshooting steps
 
-1. Instructed user not to click links or open attachments.
+1. Told user not to click links or open attachments.
 2. Collected sender, subject, timestamp, and screenshot if allowed.
 3. Asked whether credentials were entered.
 4. Documented the report for security review.
@@ -31,15 +31,15 @@ Potential phishing or malware risk.
 
 ## Resolution
 
-The ticket was escalated for security review. No credentials were entered and no attachment was opened.
+I escalated the ticket for security review. No credentials were entered and no attachment was opened.
 
 ## Verification
 
-User confirmed no interaction beyond viewing the email.
+User confirmed they didn't do anything beyond viewing the email, which this whole ticket hangs on.
 
 ## Escalation notes
 
-Include sender address, subject, timestamp, attachment name, URL if safely available, and user actions.
+Include sender address, subject, timestamp, attachment name, URL if safely available, and what the user did. Extra detail beats a follow-up.
 
 ## User-facing response
 
@@ -47,4 +47,4 @@ Thank you for reporting the suspicious email. Please do not click any links or o
 
 ## What I learned
 
-For suspicious email reports, the safest first step is to limit further interaction, collect facts, and escalate with clear details.
+My instinct is to start gathering details, but with a suspicious email I think the safest first step is getting the user to stop interacting with it. Collecting the facts and escalating with clear details comes after. The order is what I'd get backwards.

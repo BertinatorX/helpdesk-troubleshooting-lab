@@ -2,11 +2,11 @@
 
 ## Ticket summary
 
-User can connect to the network but cannot open websites by name.
+User is on the network but can't open websites by name.
 
 ## User impact
 
-The user cannot access web applications needed for daily work.
+The user can't get to the web applications they need for daily work.
 
 ## Environment
 
@@ -32,15 +32,15 @@ The user cannot access web applications needed for daily work.
 
 ## Resolution
 
-The issue was resolved after correcting DNS settings and refreshing the DNS cache.
+Fixed by correcting the DNS settings and refreshing the DNS cache, nothing more was needed.
 
 ## Verification
 
-The user confirmed that websites loaded normally after the fix.
+The user confirmed websites loaded normally after the fix.
 
 ## Escalation notes
 
-If DNS still failed, escalate with IP configuration, DNS server address, error messages, and whether other users were affected.
+If DNS still failed after that, I'd escalate with the IP configuration, DNS server address, error messages, and whether other users were affected.
 
 ## User-facing response
 
@@ -48,4 +48,4 @@ I found that the laptop had network connectivity but was not resolving website n
 
 ## What I learned
 
-Testing IP connectivity separately from DNS resolution helps isolate whether the issue is general network access or name resolution.
+Testing IP connectivity separately from DNS resolution is what made this one quick. Ping to an IP worked and names didn't, so I knew the network itself was fine and the problem was name resolution.
